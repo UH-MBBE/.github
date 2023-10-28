@@ -1,7 +1,7 @@
 
 
 
-# <img src="https://lab.garrettroell.com/images/uh_logo.webp" alt="UH Mānoa logo" width="100" height="100"/> UH Mānoa MBBE Department 
+# <img src="./uh_logo.webp" alt="UH Mānoa logo" width="100" height="100"/> UH Mānoa MBBE Department 
 
 ## Introduction
 
