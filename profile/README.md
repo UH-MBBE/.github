@@ -1,4 +1,4 @@
-# <img src="./uh_logo.webp" alt="UH Mānoa logo" width="70" height="70"/> UH Mānoa MBBE Department 
+# UH Mānoa MBBE Department 
 
 ## Introduction
 
